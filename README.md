@@ -1,2 +1,2 @@
 # myfirst-html-project
-My Resume
+This is My Resume, you can access it also in https://komacyus.github.io/myfirst-html-project/.
